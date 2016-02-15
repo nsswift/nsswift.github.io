@@ -1,5 +1,9 @@
 ---
 layout: home
-excerpt: "A minimal Jekyll theme for your blog by designer Michael Rose."
-tags: [Jekyll, theme, responsive, blog, template]
+excerpt: "NS + Swift"
+tags: [NSSwift, iOS, tutorial, Objective-C]
+image:
+  feature: alloc-init.jpg
+  credit: 
+  creditlink:
 ---

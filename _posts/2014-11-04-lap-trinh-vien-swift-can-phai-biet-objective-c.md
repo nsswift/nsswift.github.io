@@ -5,7 +5,7 @@ excerpt: "Nếu bạn muốn trở thành một iOS Developer, bạn vẫn sẽ 
 tags: [Swift, Objective-C, iOS]
 comments: true
 image:
-  feature: sw.png
+  feature: posts.jpg
   credit: 
   creditlink:
 ---

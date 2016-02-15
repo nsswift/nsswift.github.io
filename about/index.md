@@ -3,6 +3,10 @@ layout: page
 title: About Me
 tags: [NSSwift, about]
 comments: true
+image:
+  feature: nsdata-deadbeef.jpg
+  credit: 
+  creditlink:
 ---
 
 NSSwift is small Swift blog start with my idea combine NS + Swift. I hope it will provide some useful things about Swift and iOS ecosystem.
