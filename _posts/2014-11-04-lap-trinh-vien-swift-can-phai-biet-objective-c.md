@@ -4,10 +4,6 @@ title: "Lập trình viên Swift cần phải biết Objective-C"
 excerpt: "Nếu bạn muốn trở thành một iOS Developer, bạn vẫn sẽ cần phải biết Objective_C..."
 tags: [Swift, Objective-C, iOS]
 comments: true
-image:
-  feature: swift_cover.jpg
-  credit: 
-  creditlink: 
 ---
 
 Khi Apple công bố Swift, tôi nghe thấy một vài người thốt lên : “Hoora! Bây giờ tôi có thể là một iOS Developer mà không cần phải học Objective-C”. Tôi có 3 thông điệp cho họ :
