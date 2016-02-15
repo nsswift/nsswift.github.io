@@ -45,6 +45,6 @@ Thành thật mà nói không quan trọng bạn sẽ học ngôn ngữ nào đ�
 
 <Theo Aaron Hillegass>
 
-*P/s : Bài dịch đầu tiên của mình, sẽ có nhiều sai sót và nghe nó không được hay lắm. Hi vọng chất lượng bài sẽ được cải thiện trong lần sau.*
+_P/s : Bài dịch đầu tiên của mình, sẽ có nhiều sai sót và nghe nó không được hay lắm. Hi vọng chất lượng bài sẽ được cải thiện trong lần sau._
 
 Best regards.
