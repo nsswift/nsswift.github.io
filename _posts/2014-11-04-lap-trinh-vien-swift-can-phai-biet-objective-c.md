@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Lập trình viên Swift cần phải biết Objective-C"
-excerpt: ""
+excerpt: "Nếu bạn muốn trở thành một iOS Developer, bạn vẫn sẽ cần phải biết Objective_C..."
 tags: [Swift, Objective-C, iOS]
 comments: true
 image:
@@ -17,7 +17,7 @@ Khi Apple công bố Swift, tôi nghe thấy một vài người thốt lên : �
 
 – Một khi bạn biết Objective-C, sẽ dễ dàng để học Swift.
 
-Trước khi tôi tiếp tục, hãy để tôi mở đầu với một lời thú nhận về tình yêu dành cho Swift. Cú pháp của nó rất đáng yêu. Trình biên dịch Swift sẽ bắt rất nhiều lỗi cho chúng ta. Tôi chắc chắn rằng khi mọi người lập trình bằng Swift thì độ tin cậy của ứng dụng sẽ được cải thiện đáng kể. Kiểu enum được xây dựng tuyệt vời.. Swift là một bước tiến quan trọng cho toàn bộ hệ sinh thái  iOS và Mac OS X. Nhưng …
+Trước khi tôi tiếp tục, hãy để tôi mở đầu với một lời thú nhận về tình yêu dành cho Swift. Cú pháp của nó rất đáng yêu. Trình biên dịch Swift sẽ bắt rất nhiều lỗi cho chúng ta. Tôi chắc chắn rằng khi mọi người lập trình bằng Swift thì độ tin cậy của ứng dụng sẽ được cải thiện đáng kể. Kiểu enum được xây dựng tuyệt vời.. Swift là một bước tiến quan trọng cho toàn bộ hệ sinh thái iOS và Mac OS X. Nhưng …
 
 ## NẾU BẠN MUỐN TRỞ THÀNH MỘT IOS DEVELOPER, BẠN VẪN SẼ CẦN PHẢI BIẾT OBJECTIVE-C
 
