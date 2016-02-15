@@ -1,6 +1,6 @@
 ---
 layout: page
-title: NSSwift
+title: About Me
 tags: [NSSwift, about]
 comments: true
 image:
