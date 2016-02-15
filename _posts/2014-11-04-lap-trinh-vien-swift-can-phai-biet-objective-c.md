@@ -54,7 +54,7 @@ Ví dụ, generics trong Swift làm cho việc kiểm tra loại (type checking)
 
 Để làm cho Swift tương thích với Objective-C, Apple phải làm Swift rất giống Objective-C. Những ý tưởng khó trong Objective-C như đối tượng, tham chiếu strong và weak, và kế thừa là giống như trong Swift, họ chỉ sử dụng cú pháp khác nhau.
 
-Thành thật mà nói không quan trọng bạn sẽ học ngôn ngữ nào đầu tiên, vì cuối cùng bạn sẽ biết cả hai ngôn ngữ. xD
+Thành thật mà nói không quan trọng bạn sẽ học ngôn ngữ nào đầu tiên, vì cuối cùng bạn sẽ biết cả hai ngôn ngữ xD.
 
 > Dịch theo [iOS Developers Need to Know Objective-C](https://www.bignerdranch.com/blog/ios-developers-need-to-know-objective-c/)
 
