@@ -20,27 +20,27 @@ Trước khi tôi tiếp tục, hãy để tôi mở đầu với một lời th
 
 ## NẾU BẠN MUỐN TRỞ THÀNH MỘT IOS DEVELOPER, BẠN VẪN SẼ CẦN PHẢI BIẾT OBJECTIVE-C
 
-**Bạn không thể làm tất cả mọi thứ với Swift.**  Ví dụ, nếu bạn muốn sử dụng một thư viết viết bằng C++ trong ứng dụng, bạn sẽ cần phải “nói chuyện” với các đối tượng C++ bởi Objective-C. Swift có thể gọi các hàm C, nhưng tôi tin rằng nếu bạn đang làm việc với rất nhiều các hàm và kiểu C, bạn sẽ muốn lập trình trên Objective-C.
+   **Bạn không thể làm tất cả mọi thứ với Swift.**  Ví dụ, nếu bạn muốn sử dụng một thư viết viết bằng C++ trong ứng dụng, bạn sẽ cần phải “nói chuyện” với các đối tượng C++ bởi Objective-C. Swift có thể gọi các hàm C, nhưng tôi tin rằng nếu bạn đang làm việc với rất nhiều các hàm và kiểu C, bạn sẽ muốn lập trình trên Objective-C.
 
-**Cộng đồng nói về Objective-C.** Có hàng ngàn các đoạn mã Objective-C hữu ích trên StackOverflow và các blog cá nhân. Objective-C là ngôn ngữ mà chúng ta đã sử dụng 6 năm qua để mô tả các thư viện Cocoa Touch làm việc với nhau như thế nào. Nếu bạn không thể đọc hiểu Objective-C, bạn sẽ không thể hiểu kho kiến thức đồ sộ này.
+   **Cộng đồng nói về Objective-C.** Có hàng ngàn các đoạn mã Objective-C hữu ích trên StackOverflow và các blog cá nhân. Objective-C là ngôn ngữ mà chúng ta đã sử dụng 6 năm qua để mô tả các thư viện Cocoa Touch làm việc với nhau như thế nào. Nếu bạn không thể đọc hiểu Objective-C, bạn sẽ không thể hiểu kho kiến thức đồ sộ này.
 
-**Các framework trong Swift được viết bằng Objective-C.** Khi bạn có một bug, nó thường không được thể hiện một cách rõ ràng đến khi việc thực thi nằm sâu trong các đoạn code của Apple. Nếu bạn muốn hiểu những thứ mà trình gỡ lỗi (debugger) muốn nói với bạn, bạn cần phải hiểu Objective-C.
+   **Các framework trong Swift được viết bằng Objective-C.** Khi bạn có một bug, nó thường không được thể hiện một cách rõ ràng đến khi việc thực thi nằm sâu trong các đoạn code của Apple. Nếu bạn muốn hiểu những thứ mà trình gỡ lỗi (debugger) muốn nói với bạn, bạn cần phải hiểu Objective-C.
 
-**Objective-C ổn định và được kiểm tra kỹ càng.** Swift trông rất tuyệt vời, nhưng nó là ngôn ngữ đang phát triển và trình biên dịch chưa được hoàn thiện. Nếu tôi phát triển app trong năm nay, tôi sẽ chọn Objective-C.
+   **Objective-C ổn định và được kiểm tra kỹ càng.** Swift trông rất tuyệt vời, nhưng nó là ngôn ngữ đang phát triển và trình biên dịch chưa được hoàn thiện. Nếu tôi phát triển app trong năm nay, tôi sẽ chọn Objective-C.
 
 ## OBJECTIVE-C DỄ HỌC HƠN SWIFT
 
-**C thực sự là một ngôn ngữ đơn giản, và Objective-C thực sự là một mở rộng của C.** Swift có nhiều quy tắc mà Objective-C không có. Những quy tắc được thêm vào có nghĩa là trình biên dịch có được một mô phạm tốt hơn về cách thức lập trình, nhưng nó cũng có nghĩa là ngôn ngữ sẽ mất nhiều thời gian hơn để tìm hiểu.
+   **C thực sự là một ngôn ngữ đơn giản, và Objective-C thực sự là một mở rộng của C.** Swift có nhiều quy tắc mà Objective-C không có. Những quy tắc được thêm vào có nghĩa là trình biên dịch có được một mô phạm tốt hơn về cách thức lập trình, nhưng nó cũng có nghĩa là ngôn ngữ sẽ mất nhiều thời gian hơn để tìm hiểu.
 
-**Objective-C yêu cầu các lập trình viên phải rõ ràng.** Swift cho phép trình biên dịch làm được nhiều việc hơn cho lập trình viên. Thật tuyệt, bạn ít phải gõ rất nhiều code so với Objective-C. Nhưng nó có nghĩa là, khi bạn nhìn vào một dòng code, nó sẽ không mang lại nhiều ý nghĩa về ngữ cảnh mà dòng code đó tồn tại. Ngôn ngữ rõ ràng sẽ dễ dàng hơn cho người mới bắt đầu.
+   **Objective-C yêu cầu các lập trình viên phải rõ ràng.** Swift cho phép trình biên dịch làm được nhiều việc hơn cho lập trình viên. Thật tuyệt, bạn ít phải gõ rất nhiều code so với Objective-C. Nhưng nó có nghĩa là, khi bạn nhìn vào một dòng code, nó sẽ không mang lại nhiều ý nghĩa về ngữ cảnh mà dòng code đó tồn tại. Ngôn ngữ rõ ràng sẽ dễ dàng hơn cho người mới bắt đầu.
 
-**Swift có một nhóm cấu trúc mà Objective-C không có.** Ví dụ, generics trong Swift làm cho việc kiểm tra loại (type checking) tốt hơn, nhưng nó cũng làm ngôn ngữ phức tạp hơn một cách đáng kể.
+   **Swift có một nhóm cấu trúc mà Objective-C không có.** Ví dụ, generics trong Swift làm cho việc kiểm tra loại (type checking) tốt hơn, nhưng nó cũng làm ngôn ngữ phức tạp hơn một cách đáng kể.
 
 ## MỘT KHI BẠN BIẾT OBJECTIVE-C, SẼ DỄ DÀNG HƠN ĐỂ HỌC SWIFT
 
-Để làm cho Swift tương thích với Objective-C, Apple phải làm Swift rất giống Objective-C. Những ý tưởng khó trong Objective-C như đối tượng, tham chiếu strong và weak, và kế thừa là giống như trong Swift, họ chỉ sử dụng cú pháp khác nhau.
+   Để làm cho Swift tương thích với Objective-C, Apple phải làm Swift rất giống Objective-C. Những ý tưởng khó trong Objective-C như đối tượng, tham chiếu strong và weak, và kế thừa là giống như trong Swift, họ chỉ sử dụng cú pháp khác nhau.
 
-Thành thật mà nói không quan trọng bạn sẽ học ngôn ngữ nào đầu tiên, vì cuối cùng bạn sẽ biết cả hai ngôn ngữ. xD
+   Thành thật mà nói không quan trọng bạn sẽ học ngôn ngữ nào đầu tiên, vì cuối cùng bạn sẽ biết cả hai ngôn ngữ. xD
 
 > Dịch theo [iOS Developers Need to Know Objective-C](https://www.bignerdranch.com/blog/ios-developers-need-to-know-objective-c/)
 
