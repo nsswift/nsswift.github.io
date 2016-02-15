@@ -18,13 +18,17 @@ Khi Apple công bố Swift, tôi nghe thấy một vài người thốt lên : �
 Trước khi tôi tiếp tục, hãy để tôi mở đầu với một lời thú nhận về tình yêu dành cho Swift. Cú pháp của nó rất đáng yêu. Trình biên dịch Swift sẽ bắt rất nhiều lỗi cho chúng ta. Tôi chắc chắn rằng khi mọi người lập trình bằng Swift thì độ tin cậy của ứng dụng sẽ được cải thiện đáng kể. Kiểu enum được xây dựng tuyệt vời.. Swift là một bước tiến quan trọng cho toàn bộ hệ sinh thái iOS và Mac OS X. Nhưng …
 
 ## NẾU BẠN MUỐN TRỞ THÀNH MỘT IOS DEVELOPER, BẠN VẪN SẼ CẦN PHẢI BIẾT OBJECTIVE-C
-**Bạn không thể làm tất cả mọi thứ với Swift.**  Ví dụ, nếu bạn muốn sử dụng một thư viết viết bằng C++ trong ứng dụng, bạn sẽ cần phải “nói chuyện” với các đối tượng C++ bởi Objective-C. Swift có thể gọi các hàm C, nhưng tôi tin rằng nếu bạn đang làm việc với rất nhiều các hàm và kiểu C, bạn sẽ muốn lập trình trên Objective-C.
+#### Bạn không thể làm tất cả mọi thứ với Swift.
+Ví dụ, nếu bạn muốn sử dụng một thư viết viết bằng C++ trong ứng dụng, bạn sẽ cần phải “nói chuyện” với các đối tượng C++ bởi Objective-C. Swift có thể gọi các hàm C, nhưng tôi tin rằng nếu bạn đang làm việc với rất nhiều các hàm và kiểu C, bạn sẽ muốn lập trình trên Objective-C.
 
-**Cộng đồng nói về Objective-C.** Có hàng ngàn các đoạn mã Objective-C hữu ích trên StackOverflow và các blog cá nhân. Objective-C là ngôn ngữ mà chúng ta đã sử dụng 6 năm qua để mô tả các thư viện Cocoa Touch làm việc với nhau như thế nào. Nếu bạn không thể đọc hiểu Objective-C, bạn sẽ không thể hiểu kho kiến thức đồ sộ này.
+#### Cộng đồng nói về Objective-C.
+Có hàng ngàn các đoạn mã Objective-C hữu ích trên StackOverflow và các blog cá nhân. Objective-C là ngôn ngữ mà chúng ta đã sử dụng 6 năm qua để mô tả các thư viện Cocoa Touch làm việc với nhau như thế nào. Nếu bạn không thể đọc hiểu Objective-C, bạn sẽ không thể hiểu kho kiến thức đồ sộ này.
 
-**Các framework trong Swift được viết bằng Objective-C.** Khi bạn có một bug, nó thường không được thể hiện một cách rõ ràng đến khi việc thực thi nằm sâu trong các đoạn code của Apple. Nếu bạn muốn hiểu những thứ mà trình gỡ lỗi (debugger) muốn nói với bạn, bạn cần phải hiểu Objective-C.
+#### Các framework trong Swift được viết bằng Objective-C.
+Khi bạn có một bug, nó thường không được thể hiện một cách rõ ràng đến khi việc thực thi nằm sâu trong các đoạn code của Apple. Nếu bạn muốn hiểu những thứ mà trình gỡ lỗi (debugger) muốn nói với bạn, bạn cần phải hiểu Objective-C.
 
-**Objective-C ổn định và được kiểm tra kỹ càng.** Swift trông rất tuyệt vời, nhưng nó là ngôn ngữ đang phát triển và trình biên dịch chưa được hoàn thiện. Nếu tôi phát triển app trong năm nay, tôi sẽ chọn Objective-C.
+#### Objective-C ổn định và được kiểm tra kỹ càng.
+Swift trông rất tuyệt vời, nhưng nó là ngôn ngữ đang phát triển và trình biên dịch chưa được hoàn thiện. Nếu tôi phát triển app trong năm nay, tôi sẽ chọn Objective-C.
 
 ## OBJECTIVE-C DỄ HỌC HƠN SWIFT
 #### C thực sự là một ngôn ngữ đơn giản, và Objective-C thực sự là một mở rộng của C.
