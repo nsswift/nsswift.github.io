@@ -43,8 +43,7 @@ Trước khi tôi tiếp tục, hãy để tôi mở đầu với một lời th
 
 Thành thật mà nói không quan trọng bạn sẽ học ngôn ngữ nào đầu tiên, vì cuối cùng bạn sẽ biết cả hai ngôn ngữ. xD
 
-<Theo Aaron Hillegass>
+> Dịch từ https://www.bignerdranch.com/blog/ios-developers-need-to-know-objective-c/
 
-_P/s : Bài dịch đầu tiên của mình, sẽ có nhiều sai sót và nghe nó không được hay lắm. Hi vọng chất lượng bài sẽ được cải thiện trong lần sau._
-
+*P/s : Bài dịch đầu tiên của mình, sẽ có nhiều sai sót và nghe nó không được hay lắm. Hi vọng chất lượng bài sẽ được cải thiện trong lần sau.*
 Best regards.
