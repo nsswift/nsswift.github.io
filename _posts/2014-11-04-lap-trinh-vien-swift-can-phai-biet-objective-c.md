@@ -46,4 +46,3 @@ Thành thật mà nói không quan trọng bạn sẽ học ngôn ngữ nào đ�
 > Dịch theo [iOS Developers Need to Know Objective-C](https://www.bignerdranch.com/blog/ios-developers-need-to-know-objective-c/)
 
 *P/s : Bài dịch đầu tiên của mình, sẽ có nhiều sai sót và nghe nó không được hay lắm. Hi vọng chất lượng bài sẽ được cải thiện trong lần sau.*
-Best regards.
