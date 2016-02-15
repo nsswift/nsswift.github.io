@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title:            Site Title
+title:            NSSwift
 locale:           en_US
 url:
 
@@ -41,25 +41,25 @@ titlecase: true
 
 # Site owner
 owner:
-  name: Your Name
-  avatar: bio-photo.jpg
+  name: Nam Le
+  avatar: avatar.jpeg
   bio: "Describe your self."
   email:
   disqus-shortname:
-  twitter: #username
+  twitter: #lephannam
   facebook: #username
   google:
-    plus: #username
+    plus: #namlp12
     analytics:
     verify:
     ad-client:
     ad-slot:
   bing-verify:
-  github: #username
-  stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
+  github: #nsswift
+  stackoverflow: #5928078/nsswift   from a "http://stackoverflow.com/users/123456/username" link
   linkedin: #username
   xing: #username
-  instagram: #username
+  instagram: #lephannam
   lastfm: #username
   tumblr: #username
   pinterest: #username
